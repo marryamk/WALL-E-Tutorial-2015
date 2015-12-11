@@ -1,6 +1,6 @@
 # WALL-E-Tutorial-2015
 
-Demo:
+<b>Demo:</b>
 
 https://www.instagram.com/p/-2QLymBL57/?taken-by=maria_kudrow
 
